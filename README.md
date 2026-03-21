@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Tanmay Dixit</h1>
 <h3 align="center">Full-Stack Developer | MERN Stack | Passionate About AI & Intelligent Systems</h3>
 
