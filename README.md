@@ -54,7 +54,7 @@
 ## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:tanmaydixit09@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://linkedin.com/in/tanmaydixit09"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/Tanmaydixit09"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
