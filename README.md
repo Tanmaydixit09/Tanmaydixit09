@@ -7,7 +7,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me 
 - 🎓 3rd Year B.Tech in Computer Science  
 - 💻 Skilled in Full-Stack Web Development  
 - 🧠 Strong in Problem Solving (DSA + C++)  
