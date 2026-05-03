@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanmay Dixit </h1>
-<h3 align="center">Full-Stack Developer | MERN Stack | Passionate About AI & Intelligent Systems</h3>
+<h3 align="center">Full-Stack Developer | MERN Stack | Passionate About AI & Intelligent Systems</h3> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;AI+Explorer;Building+Scalable+Projects&center=true&width=500&height=50">
